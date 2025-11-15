@@ -1,9 +1,7 @@
 # DBT + Airflow + SQL Server DataOps Project
 
-![DBT CI](https://github.com/YOUR_USERNAME/dbt-airflow-dataops/workflows/DBT%20CI%20Pipeline/badge.svg)
-![Python Quality](https://github.com/YOUR_USERNAME/dbt-airflow-dataops/workflows/Python%20Code%20Quality/badge.svg)
-
-[Rest of your README content...]
+![DBT CI](https://github.com/22120137/dbt-airflow-dataops/workflows/DBT%20CI%20Pipeline/badge.svg)
+![Python Quality](https://github.com/22120137/dbt-airflow-dataops/workflows/Python%20Code%20Quality/badge.svg)
 
 # DBT and Airflow Data Pipeline Project
 
